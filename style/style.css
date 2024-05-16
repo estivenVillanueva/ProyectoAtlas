@@ -50,13 +50,26 @@ h3{
     color: #666;
 }
 .text2{
+    width: 50%;
     position: relative;
     top: 200px;
     left: 20%;
 }
-p{
+.p2{
     color: #666;
 }
 .button2{
-    
+    height: auto;
+    align-self:flex-end;
+    padding: 9px 40px;
+    border-radius: 30px;
+    cursor: pointer; 
+    color: #fff;
+    background-color: rgb(2, 6, 31);
+}
+.feature-1{
+    position: absolute;
+  margin: 0 950px;
+  height: 25rem;
+  width: 35rem;
 }

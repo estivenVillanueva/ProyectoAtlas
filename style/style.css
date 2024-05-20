@@ -52,8 +52,9 @@ h3{
 .text2{
     width: 50%;
     position: relative;
-    top: 200px;
-    left: 20%;
+    top: 400px;
+    left: 40%;
+    transform: translate(-50%, -50%);
 }
 .p2{
     color: #666;
@@ -68,19 +69,29 @@ h3{
     background-color: rgb(2, 6, 31);
 }
 .feature-1{
-  position: absolute;
+  position:absolute;
   margin: 0 970px;
   height: 25rem;
   width: 35rem;
+  top: 1100px;
 }
 .text3{
     width: 50%;
     position: relative;
-    top: 227px;
+    top: -770px;
     left: 1020px;
 }
 .feature-2{
     position: relative;
-    top:600px;
-    left: 380px;
+    top:-400px;
+    left: 335px;
+}
+.trapecio {
+    width: 100vw;
+    height: 60rem;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgb(0, 247, 164);
+    clip-path: polygon(0 51%, 100% 0%, 100% 100%, 0% 100%)
 }

@@ -68,8 +68,19 @@ h3{
     background-color: rgb(2, 6, 31);
 }
 .feature-1{
-    position: absolute;
-  margin: 0 950px;
+  position: absolute;
+  margin: 0 970px;
   height: 25rem;
   width: 35rem;
+}
+.text3{
+    width: 50%;
+    position: relative;
+    top: 227px;
+    left: 1020px;
+}
+.feature-2{
+    position: relative;
+    top:600px;
+    left: 380px;
 }

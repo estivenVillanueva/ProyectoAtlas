@@ -168,9 +168,18 @@ span{
   .company-img{
     position: relative;
     left: 115px;
-    margin: 40px;
   }
   .client{
     margin: 30px;
     margin-right: 110px;
+  }
+  .texts{
+    position: absolute;
+    top: 50%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    color: aliceblue;
+    position:relative;
+    margin-top: -350px;
+
   }

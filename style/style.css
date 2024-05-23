@@ -2,9 +2,14 @@
     width: 90%;
     font-family:Arial, Helvetica, sans-serif
 }
+.logo{
+  position: relative;
+  top: -300px;
+  left: -100px;
+}
 .text{
-    position: absolute;
-    top: 50%;
+    position: relative;
+    top: 100px;
     left: 60%;
     transform: translate(-50%, -50%);
     color: aliceblue;
@@ -33,7 +38,7 @@ body{
 }
 .container{
  position: relative;
- top: 100px;
+ top: 300px;
  display: flex;
  margin-left: 22%;
  margin-right: 13%;
@@ -41,7 +46,7 @@ body{
 }
 .h1{
     position: relative;
-    top: 100px;
+    top: 300px;
     display: flex;
     margin-left: 37%;
 }
@@ -58,7 +63,7 @@ h3{
 .text2{
     width: 50%;
     position: relative;
-    top: 400px;
+    top: 500px;
     left: 40%;
     transform: translate(-50%, -50%);
 }
@@ -96,6 +101,7 @@ h3{
     width: 100vw;
     height: 60rem;
     position: relative;
+    top: 150px;
     background-size: cover;
     background-repeat: no-repeat;
     background-color: rgb(0, 247, 164);
@@ -103,12 +109,12 @@ h3{
 }
 .Check{
     position: relative;
-    top: -460px;
-    left: 840px;
+    top: -400px;
+    left: 800px;
 }
 .container1{
     position: relative;
-    top: -420px;
+    top: -400px;
     right: -20px;
     
 }

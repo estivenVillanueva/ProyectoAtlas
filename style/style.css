@@ -4,8 +4,8 @@
 }
 .logo{
   position: relative;
-  top: -300px;
-  left: -100px;
+  top: -350px;
+  left: -30px;
 }
 .text{
     position: relative;
@@ -110,7 +110,7 @@ h3{
 .Check{
     position: relative;
     top: -400px;
-    left: 800px;
+    left: 680px;
 }
 .container1{
     position: relative;
@@ -140,7 +140,7 @@ span{
   .container3{
     color: rgb(253, 253, 253);
     position: absolute;
-    right: 51.5rem;
+    right: 48.5rem;
     width: 13%;
     background-color: #00063d;
     text-align: center;
